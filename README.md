@@ -18,17 +18,6 @@ I build things for fun, solve problems, experiment with technology, and occasion
   <img src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,android,git,github,vscode,blender,unity&theme=dark" />
 </p>
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wishissue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishissue&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishissue&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
-</p>
-
 ### Currently
 
 - Building software and experimenting with new ideas.
